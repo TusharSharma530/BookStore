@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713680756~exp=1713684356~hmac=575b9841b0770bb75f5a71d8b58607621d77bff77cdc8297033ef67bc13a07ad&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"IAS Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":60,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713680756~exp=1713684356~hmac=575b9841b0770bb75f5a71d8b58607621d77bff77cdc8297033ef67bc13a07ad&w=740"
+    },
+    {
+        "id":3,
+        "name":"pcs Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":40,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713680756~exp=1713684356~hmac=575b9841b0770bb75f5a71d8b58607621d77bff77cdc8297033ef67bc13a07ad&w=740"
+    },
+    {
+        "id":4,
+        "name":"Exercise Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":30,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713680756~exp=1713684356~hmac=575b9841b0770bb75f5a71d8b58607621d77bff77cdc8297033ef67bc13a07ad&w=740"
+    },
+    {
+        "id":5,
+        "name":"Commedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713680756~exp=1713684356~hmac=575b9841b0770bb75f5a71d8b58607621d77bff77cdc8297033ef67bc13a07ad&w=740"
+    }
+]
